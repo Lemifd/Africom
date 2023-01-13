@@ -1,4 +1,4 @@
-<h2><span style="font-size: medium;">Khaki - HTML E-commerce Online Shop</span></h2>
+<h2><span style="font-size: medium;">Africom</span></h2>
 <table class="post-table">
 <thead>
 <tr>
@@ -10,7 +10,7 @@
 <tbody>
 <tr>
 <td>HTML, CSS, Javascript/JQuery</td>
-<td>Non-Responsive | Multi Page Template</td>
+<td>Responsive | Multi Page Template</td>
 <td>No</td>
 </tr>
 </tbody>
@@ -56,7 +56,7 @@
  	<li>FancyBox for displaying single products images</li>
  	<li>Contact Form, Checkout Form, Account Form etc.</li>
 </ul>
-<p style="text-align: left;"><b>Khaki Online Shop HTML5 Website Template Pages Included</b></p>
+<p style="text-align: left;"><b>Africom Online Shop HTML5 Website Template Pages Included</b></p>
 <ul>
  	<li>index page</li>
  	<li>shop page</li>
